@@ -1,0 +1,673 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar{
+    background-color:#00021C;
+    padding-left: 0px;
+}
+.navbar:hover{
+    color: white;
+}
+.nav-link{
+    margin-left: 90px;
+    color:white !important;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.did{
+    background-color: rgb(255,242,0);
+    height: 100vh;
+    font-weight: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.para{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 1px solid white ;
+    border-radius: 20px;
+    color: rgb(14,67,99);
+    font-size: x-large;
+    background-color:  white;
+    margin-left: 20px;
+    font-weight: bold;
+    
+}
+
+.kin{
+    background-color: rgb(242,242,242);
+    height: 100%;
+}
+
+.email{
+    padding:20px 180px 20px 150px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.emai{
+    padding:20px 150px 20px 180px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.nice{
+    margin-right: 105px;
+    padding-top: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pack{
+    padding-top: 20px;
+    margin-right: 405px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.for{
+    color:black;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 320px;
+}
+.move{
+    background-color: green;
+    color:white;
+    text-align: center;
+    cursor: pointer;
+}
+.joke{
+    background-color: white;
+    background-size: contain;
+    margin-left: 33%;
+    margin-right: 33%;
+    height: 50vh;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+
+.now{
+    border:3px groove green;
+    background-color: green;
+    color:white;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 27px;
+    font-size: medium;
+    font-weight: bold;
+}
+.know{
+    background-color: rgb(246,215,22);
+    height: 100%;
+    width: 100%;
+}
+.ink{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 20px;
+    opacity: 0.7;
+}
+hr.style-sex {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.legal{
+    font-size: xx-large;
+    font-weight: bold;
+    color:green;
+    margin-left: 10%;
+}
+.give{
+    font-size: 20px;
+    margin-left: 10%;
+    color: green;
+}
+.term{
+    margin-left: 30px;
+}
+.need{
+    text-align: justify;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    margin-left: 14%;
+}
+.nap{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    margin-right: 36%;
+    padding-top: 30px;
+}
+.pac{
+    padding-top: 20px;
+    margin-right: 313px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.kill{
+    background-color: white;
+    background-size: contain;
+    margin-left: 33%;
+    margin-right: 33%;
+    height: 140vh;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+
+}
+.kip{
+    background-color: rgb(242,242,242);
+    background-size: cover;
+    height: 170vh;
+    font-weight: 100%;
+}
+.kne{
+    background-color: rgb(246,215,22) ;
+        height: 50vh;
+        width: 100%;
+}
+.pak{
+    padding-top: 20px;
+    margin-right: 370px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pap{
+    padding-top: 20px;
+    margin-right: 211px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.paf{
+    padding-top: 20px;
+    margin-right: 330px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pa{
+    margin-right: 240px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.pam{
+    margin-right: 285px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.paq{
+    margin-right: 400px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black; 
+}
+.pal{
+    padding-top: 20px;
+    margin-right: 300px;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.hood{
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
+.spoon{
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    padding-top: 30px;
+}
+/* .name{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+} */
+.beef{
+    font-size: 17px;
+    font-weight: bold;
+}
+.put{
+    font-size: 15px;
+    font-weight: bold;
+}
+.aca{
+    color: green;
+    font-size: 20px;
+}
+.day{
+    margin-left: 10px;
+    color: green;
+}
+.ac{
+    color: green;
+}
+.head{
+    background-image: url('images/head\ coach.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.heads{
+    background-color: rgb(255,242,0);
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.music{
+    background-color: #038C40;
+    margin-top: 130px;
+    height: 100%;
+    color: white;
+    border-radius: 10px;
+}
+.mus{
+    font-size: 50px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.say{
+    text-align: left;
+    padding-top: 100px;
+}
+.thank{
+    margin-left: 50%;
+}
+.fun{
+    margin-left: 10%;
+}
+.man{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.than{
+    margin-left: 20%;
+}
+.tell{
+    padding-left: 50%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.tel{
+    padding-left: 20%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.ayo{
+    background-image: url(images/yellow.jpg);
+}
+.ass{
+    font-size: 60px;
+    text-align: center;
+    color:yellow;
+    line-height: 100px;
+}
+.xx{
+    background-color: #00021C;
+}
+.xxx{
+    background-color: yellow;
+}
+.kit{
+    background-color: #003E14;
+}
+.ask{
+    font-size: 60px;
+    text-align: center;
+    color: green;
+    line-height: 100px;
+}
+.toe{
+    background-color: #00021C;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+}
+.sad{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}
+.one{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/squard.jpg') center;
+    background-size: cover;
+    height: 62vh;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.two{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/training boys.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    border-radius: 5px;
+}
+.tree{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/number 7.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+.car {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/real training.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    border-radius: 5px;
+}
+.demo {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/number 10.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+.ones{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/pool side.jpg') center;
+    background-size: cover;
+    height: 62vh;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.twos{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/boys in pool.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    border-radius: 5px;
+}
+.trees{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/pool.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+.cars {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/boys in pool.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    border-radius: 5px;
+}
+.demos {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/uniquestar student in pool.jpg") center;
+    height: 30vh;
+    background-size: cover;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+.logo{
+    border-radius: 100%;
+}
+.rows{
+    align-items: center;
+}
+.fff{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+input{
+    height: 40px !important;
+}
+.card{
+    border-radius: 10px;
+}
+.ddd{
+    display: flex;
+    align-items: center;
+}
+.rrr{
+    font-size: 14px;
+    padding-left: 10px;
+}
+.on{
+    font-size: 14px;
+}
+.sub{
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+@media (min-width: 280px) and (max-width: 575px) {
+    .head{
+        height: 50vh;
+        width: 100%;
+    }
+    .lll{
+        font-size: 29px;
+    }
+    .ll{
+        font-size: 12px;
+    }
+    .lab{
+        margin-top: 20px !important;
+    }
+    .bg{
+        width: 100px;
+        margin-left: 20px;
+    }
+    .music{
+        margin-top: 20px;
+        height: 100%;
+        width: 300px;
+        border-radius: 5px;
+    }
+    .mus{
+        font-size: 25px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    .say{
+        text-align: left;
+        padding-top: 30px;
+    }
+    .ink{
+        font-size: 20px;
+        text-align: center;
+        text-shadow: 20px;
+        opacity: 0.7;
+        margin-top: 0 !important;
+    }
+    .one{
+        margin-bottom: 20px;
+        width: 100%;
+        height: 30vh;
+        margin-left: 15px;
+    }
+    .two{
+        height: 25vh;
+    }
+    .tree{
+        height: 25vh;
+    }
+    .car{
+        height: 25vh;
+    }
+    .demo{
+        height: 25vh;
+    }
+    .ones{
+        margin-bottom: 20px;
+        width: 100%;
+        height: 30vh;
+        margin-left: 15px;
+    }
+    .twos{
+        height: 25vh;
+    }
+    .trees{
+        height: 25vh;
+    }
+    .cars{
+        height: 25vh;
+    }
+    .demos{
+        height: 25vh;
+    }
+    .ass{
+        font-size: 20px;
+        color:yellow;
+        line-height: 22px;
+        padding-top: 0px !important;
+    }
+    .ask{
+        font-size: 20px;
+        color: green;
+        line-height: 22px;
+        padding-top: 10px !important;
+    }
+    .term{
+        margin-left: 0;
+    }
+    .know{
+        height: 100%;
+    }
+    .any{
+        margin-top: 20px;
+    }
+    .logs{
+        font-size: 15px;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .fff{
+        margin-top: 40px;
+        margin-bottom: 80px;
+    }
+    .hood{
+        font-size: 22px;
+    }
+    .bbb{
+        font-size: 17px;
+    }
+    .spoon{
+        font-size: 15px;
+    }
+    .nav-link{
+        margin-left: 25px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .head{
+        height: 40vh;
+        width: 100%;
+    }
+    .bg{
+        width: 50%;
+        margin-left: 20px;
+    }
+    .music{
+        margin-top: 50px;
+        height: 100%;
+        width: 400px;
+        border-radius: 5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .mus{
+        font-size: 25px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    .say{
+        text-align: left;
+        padding-top: 30px;
+    }
+    .ink{
+        font-size: 25px;
+        text-align: center;
+        text-shadow: 20px;
+        opacity: 0.7;
+        margin-top: 0 !important;
+    }
+    .one{
+        margin-bottom: 20px;
+        width: 100%;
+        height: 30vh;
+        margin-left: 28px;
+    }
+    .two{
+        height: 25vh;
+    }
+    .tree{
+        height: 25vh;
+    }
+    .car{
+        height: 25vh;
+    }
+    .demo{
+        height: 25vh;
+    }
+    .ones{
+        margin-bottom: 20px;
+        width: 100%;
+        height: 30vh;
+        margin-left: 28px;
+    }
+    .twos{
+        height: 25vh;
+    }
+    .trees{
+        height: 25vh;
+    }
+    .cars{
+        height: 25vh;
+    }
+    .demos{
+        height: 25vh;
+    }
+    .ass{
+        font-size: 20px;
+        color:yellow;
+    }
+    .ask{
+        font-size: 20px;
+        color: green;
+    }
+    .term{
+        margin-left: 0;
+    }
+    .know{
+        height: 100%;
+    }
+    .any{
+        margin-top: 20px;
+    }
+    .logs{
+        font-size: 15px;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    .fff{
+        margin-top: 40px;
+        margin-bottom: 80px;
+    }
+    .hood{
+        font-size: 22px;
+    }
+    .bbb{
+        font-size: 17px;
+    }
+    .spoon{
+        font-size: 15px;
+    }
+    .nav-link{
+        margin-left: 25px;
+    }
+}
