@@ -351,7 +351,7 @@ hr.style-sex {
     border-radius: 5px;
 }
 .two{
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/training boys.jpg") center;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/training boys.jpg") center;
     height: 30vh;
     background-size: cover;
     border-radius: 5px;
